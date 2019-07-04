@@ -4,3 +4,5 @@ Day 4- File Creations And Folder Creations
 Day 4 - Basic Operation Of Ubuntu Operating System
 
 
+Gitam - Hyderabad
+Git sessions to sync data from local computer to server computer
